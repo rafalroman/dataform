@@ -1,0 +1,13 @@
+{
+    "defaultSchema": "dataform",
+    "assertionSchema": "dataform_assertions",
+    "warehouse": "bigquery",
+    "defaultDatabase": "cwiczenia-367014",
+    "defaultLocation": "US",
+    "bigquery": {
+        "defaultLocation": "US",
+        "labels": {
+            "label-name": "value"
+        }
+    }
+}
